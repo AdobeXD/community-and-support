@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Join the developer community
 
-You can use the [editor on GitHub](https://github.com/AdobeXD/community-and-support/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Don't build it alone! We've got an awesome community that you can interact with during your journey to creating your XD plugin.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![XD Dev Days Event](/images/xd-dev-days.png)
 
-### Markdown
+Whether you're looking for help, community discussion, or want to give us feedback, you've come to the right place! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Give and get help
 
-# Header 1
-## Header 2
-### Header 3
+- [FAQ](https://forums.adobexdplatform.com/c/xd/faq): Browse our FAQ on the forums for quick answers to common issues and questions.
+- [Adobe XD Platform Forums](https://forums.adobexdplatform.com/): Open discussion, Q&A, and support with community experts and Adobe staff on anything related to building XD plugins. Jump in and say hi (we'll say hi back)!
+- [Stackoverflow](https://stackoverflow.com/questions/tagged/adobe-xd): You can also ask questions to the broader developer community on Stackoverflow. Use the `adobe-xd` tag when asking questions.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Give us feedback
 
-**Bold** and _Italic_ and `Code` text
+- [API bug reports and feature requests](https://forums.adobexdplatform.com/c/api-feedback): Got an API bug or feature request that you want us to consider? Bring it to the API Feedback forum for community voting and discussion.
+- [Application feedback](https://adobexd.uservoice.com/): Want to file a bug report or feature request for XD itself (not API-specific)? Tell us on UserVoice.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Get the latest news
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AdobeXD/community-and-support/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Adobe Tech Blog](https://medium.com/adobetech): Developer-focused news from across Adobe. We post about API updates, how-tos, events, and more on this blog. Be sure to follow us for regular updates that matter to you.
+- [CC Developer Newsletter](https://www.adobe.com/subscription/ccdevnewsletter.html): CC Ecosystem updates delivered directly to your inbox. We cover topics ranging from API announcements to go-to-market tips. Sign up for the newsletter to stay in the loop on the latest from across the ecosystem.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Open source
+
+- [XD repos](https://github.com/AdobeXD): See our GitHub repos for opportunities to contribute. Each repo has a Code of Conduct and Contributing file that you should review before getting started.
+- [Your repos](https://github.com/AdobeXD/xd-awesome): Open sourcing something that you think would benefit the broader developer community? Consider submitting it for addition to the `xd-awesome` repo.
