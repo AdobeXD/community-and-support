@@ -2,10 +2,12 @@
 
 Don't build it alone! We've got an awesome community that you can interact with during your journey to creating your XD plugin.
 
-![XD Dev Days Event](/images/xd-dev-days.png)
+<object style="width: 100%" type="image/png" data="/images/devdays@3x.png" alt="placeholder"></object>
 
+**Build & contribute**
 Whether you're looking for help, community discussion, or want to give us feedback, you've come to the right place! 
 
+[Learn how](CONTRIBUTING.md)
 
 ## Give and get help
 
@@ -31,3 +33,6 @@ Whether you're looking for help, community discussion, or want to give us feedba
 
 - [XD repos](https://github.com/AdobeXD): See our GitHub repos for opportunities to contribute. Each repo has a Code of Conduct and Contributing file that you should review before getting started.
 - [Your repos](https://github.com/AdobeXD/xd-awesome): Open sourcing something that you think would benefit the broader developer community? Consider submitting it for addition to the `xd-awesome` repo.
+
+
+<object style="width: 100%" type="image/png" data="/images/bottom@3x.png" alt="placeholder"></object>
