@@ -2,7 +2,7 @@
 
 Don't build it alone! We've got an awesome community that you can interact with during your journey to creating your XD plugin.
 
-<object style="width: 100%" type="image/png" data="/images/devdays@3x.png" alt="placeholder"></object>
+<object style="width: 100%" type="image/png" data="/images/devdays@3x.png">placeholder</object>
 
 **Build & contribute**
 Whether you're looking for help, community discussion, or want to give us feedback, you've come to the right place! 
@@ -35,4 +35,4 @@ Whether you're looking for help, community discussion, or want to give us feedba
 - [Your repos](https://github.com/AdobeXD/xd-awesome): Open sourcing something that you think would benefit the broader developer community? Consider submitting it for addition to the `xd-awesome` repo.
 
 
-<object style="width: 100%" type="image/png" data="/images/bottom@3x.png" alt="placeholder"></object>
+<object style="width: 100%" type="image/png" data="/images/bottom@3x.png">placeholder</object>
