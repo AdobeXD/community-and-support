@@ -6,7 +6,7 @@ Whether you're looking for **help**, **community discussion**, or want to give u
 
 <br />
 
-<object style="width: 100%" type="image/png" data="/images/devdays@3x.png">Join the Adobe XD developer community</object>
+<img alt="XD developer community" src="/images/community-image.png" class="plain" style="width: 100%"/>
 
 <br />
 
