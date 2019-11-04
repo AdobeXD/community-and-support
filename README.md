@@ -45,4 +45,4 @@ Whether you're looking for **help**, **community discussion**, or want to give u
 
 <br />
 
-<object style="width: 100%" type="image/png" data="/images/bottom@3x.png">Building Confetti for Adobe XD</object>
+<a href="https://medium.com/adobetech/updating-confetti-for-adobe-xd-to-a-non-blocking-user-experience-2fe871e9be51"><img alt="Read about Yummygum's Confetti plugin" src="/images/confetti.png" class="plain" style="width: 100%"/></a>
