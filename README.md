@@ -4,11 +4,7 @@ Don't build it alone! We've got an awesome community that you can interact with 
 
 Whether you're looking for **help**, **community discussion**, or want to give us **feedback**, you've come to the right place! 
 
-<br />
-
 <img alt="XD developer community" src="/images/community-image.png" class="plain" style="width: 100%"/>
-
-<br />
 
 ## Give and get help
 
