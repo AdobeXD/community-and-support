@@ -2,7 +2,7 @@
 
 Don't build it alone! We've got an awesome community that you can interact with on your journey to creating XD plugins and integrations.
 
-Whether you're looking for **help**, **community discussion**, or want to give us **feedback**, you've come to the right place! 
+Whether you're looking for **help**, **community discussion**, or want to give us **feedback**, you've come to the right place!
 
 <img alt="XD developer community" src="/images/community-image.png" class="plain" style="width: 100%"/>
 
@@ -10,19 +10,16 @@ Whether you're looking for **help**, **community discussion**, or want to give u
 
 **You've got a place to join in the conversation.**
 
-- [XD developer Forums](https://forums.adobexdplatform.com/): Open discussion and support with community experts and Adobe staff.
+- [Creative Cloud Developer Forums](https://forums.creativeclouddeveloper.com/): Open discussion and support with community experts and Adobe staff.
 - [Stackoverflow](https://stackoverflow.com/questions/tagged/adobe-xd): Developer Q&A using the `adobe-xd` tag.
-
 
 ## Give us feedback
 
 **Have a request or an issue to report? We want to hear it!**
 
-- [Plugin API feedback](https://forums.adobexdplatform.com/c/api-feedback): Influence the rapidly evolving future of the Plugin APIs.
-- [Cloud Content API feedback](): Let us know what you'd like on the Cloud Content API roadmap.
+- [Plugin API feedback](https://forums.creativeclouddeveloper.com/tags/c/adobe-xd/xd/8/api-feedback): Influence the rapidly evolving future of the Plugin APIs.
+- [Cloud Content API feedback](https://forums.creativeclouddeveloper.com/c/adobe-xd/cloud-content-api/6): Let us know what you'd like on the Cloud Content API roadmap.
 - [Application feedback](https://adobexd.uservoice.com/): Make your voice heard on UserVoice.
-
-
 
 ## Get the latest news
 
@@ -30,7 +27,6 @@ Whether you're looking for **help**, **community discussion**, or want to give u
 
 - [Adobe Tech Blog](https://medium.com/adobetech): The fastest way to get regular updates that matter to developers.
 - [CC Developer Newsletter](https://www.adobe.com/subscription/ccdevnewsletter.html): CC Platform and Ecosystem updates right in your inbox.
-
 
 ## Open source
 
